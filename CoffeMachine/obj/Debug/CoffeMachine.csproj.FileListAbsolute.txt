@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.exe
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.pdb
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\mrlma\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.pdb
